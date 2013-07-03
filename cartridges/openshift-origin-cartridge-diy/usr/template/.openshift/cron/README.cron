@@ -1,5 +1,8 @@
 Run scripts or jobs on a periodic basis
 =======================================
+
+PLEASE NOTE: you need to install a cron cartridge to get your cron jobs to run
+
 Any scripts or jobs added to the minutely, hourly, daily, weekly or monthly
 directories will be run on a scheduled basis (frequency is as indicated by the
 name of the directory) using run-parts.
